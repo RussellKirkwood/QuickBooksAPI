@@ -3,8 +3,5 @@ QuickBooks API Interface
 
 Code for:
 
-Creating Invoices
-Creating Credit Memos
-Creating Purchases (Checks)
-Creating Vendor Credits
+Creating Invoices, Creating Credit Memos, Creating Purchases (Checks), Creating Vendor Credits
 
